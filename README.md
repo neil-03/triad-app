@@ -1,2 +1,3 @@
-# triad-app
-Code for train Rental Website
+# Triad Rental Application
+
+Code for a JS based Rental Website
